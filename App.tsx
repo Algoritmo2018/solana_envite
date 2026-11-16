@@ -356,7 +356,7 @@ export default function App() {
                     <circle cx="32" cy="47" r="1.4" fill="#071c4d" />
                   </svg>
                 </span>
-                <figcaption className="text-xs font-bold leading-4 text-white">Camisa branca</figcaption>
+                <figcaption className="text-xs font-bold leading-4 text-white"> </figcaption>
               </figure>
             </div>
             <p className="mt-4 inline-block rounded-full border border-[#d4af37]/60 px-4 py-1.5 text-[11px] font-extrabold uppercase tracking-[0.28em] text-[#f6d873]">Tudo Branco</p>
